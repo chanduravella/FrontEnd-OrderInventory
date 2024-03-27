@@ -1,0 +1,24 @@
+.custom-box {
+  border: 1px solid #ddd;
+  padding: 1px;
+  margin-bottom: 5px;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: center;
+  background-color: rgb(51, 188, 188);
+  position: sticky;
+}
+ 
+.custom-box h5 {
+  margin-top: 0;
+}
+.endpoint{
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+h3{
+  margin-top: 0%;
+  text-align: center;
+  background-color: #ecff1f;
+  box-sizing: border-box;
+}
